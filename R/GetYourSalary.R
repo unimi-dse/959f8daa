@@ -7,7 +7,7 @@ GetYourSalary <- function()
   
   # Predict Your Salary based on a Simple Linear Regression
   # Importing the dataset
-  dataset = read.csv('https://raw.githubusercontent.com/RemonRezk/GetYourSalary/master/data/Salary_Data.csv')
+  dataset = read.csv('https://raw.githubusercontent.com/unimi-dse/959f8daa/master/data/Salary_Data.csv')
   
   # Splitting the dataset into the Training set and Test set
   # install.packages('caTools')
